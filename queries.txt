@@ -1,0 +1,15 @@
+Learner
+
+{ learner: "John Doe", subject: "Math", score: 85 }
+
+----------------------
+
+Queries
+
+1. Find learners who scored above 80
+
+2. Find the average score for all learners
+
+3. Update multiple documents using a filter
+
+4. Delete documents with scores below 70
